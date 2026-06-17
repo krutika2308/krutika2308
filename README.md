@@ -85,7 +85,7 @@ Responsive portfolio showcasing projects and skills.
 
 * GitHub: https://github.com/krutika2308
 * LinkedIn: www.linkedin.com/in/krutika-gadigone-a92039235
-* Email: krutikagadigone@gmail.com+
+* Email: krutikagadigone@gmail.com
 
 ---
 
